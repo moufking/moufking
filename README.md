@@ -4,7 +4,7 @@
 
 ---
 
-#⚡️ A quick introduction
+# ⚡️ A quick introduction
 
 - 🔭 I’m currently working with <a href="https://mediactive-solutions.com/?utm_term=mediactive&utm_campaign=Brand+-+Mediactive+Solutions&utm_source=adwords&utm_medium=ppc&hsa_acc=4487267111&hsa_cam=20031435743&hsa_grp=155220609104&hsa_ad=656235801811&hsa_src=g&hsa_tgt=kwd-296091285579&hsa_kw=mediactive&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw-vmkBhBMEiwAlrMeF3qE6BjkJIcjnvRYLbEbyEseWfmfT4lMIpCzUe-HuZwjBESHMNep-hoCv8AQAvD_BwE">
 Mediactive 
@@ -15,7 +15,7 @@ Mediactive
 
 ---
 
-#🤝🏻 Connect, Follow, Subscribe
+# 🤝🏻 Connect, Follow, Subscribe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moufid-alaofe-31a6b6168/)
 [![Youtube](https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@Jelab)
