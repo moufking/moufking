@@ -4,7 +4,7 @@
 
 ---
 
-# ⚡️ A quick introduction
+
 
 - 🔭 I’m currently working with <a href="https://mediactive-solutions.com/?utm_term=mediactive&utm_campaign=Brand+-+Mediactive+Solutions&utm_source=adwords&utm_medium=ppc&hsa_acc=4487267111&hsa_cam=20031435743&hsa_grp=155220609104&hsa_ad=656235801811&hsa_src=g&hsa_tgt=kwd-296091285579&hsa_kw=mediactive&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw-vmkBhBMEiwAlrMeF3qE6BjkJIcjnvRYLbEbyEseWfmfT4lMIpCzUe-HuZwjBESHMNep-hoCv8AQAvD_BwE">
 Mediactive 
